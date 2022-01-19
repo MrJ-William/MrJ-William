@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJ-William&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MrJ-William&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MrJ-William&count_private=true&show_icons=true&show_icons=true&theme=highcontrast" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MrJ-William&theme=onedark&column=7
